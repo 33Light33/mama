@@ -1,0 +1,79 @@
+{
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": false,
+		"HideIconAfter": 60,
+		"IconURL": "",
+		"DisableIconText": false,
+		"IconPosition": 1,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": false,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green> Welcome </>",
+				"title1": "<TextStyle.Green> Welcome On Matrix </>",
+				"text1": "\r\n     Matrix was created because I'm fed up with all the servers that impose 10/15/20 ..... rules ingame, it's unbearable, it's a game and we want to relax. I rent a very powerful host to offer you a stable servers. I hope you have a good time, we have a community that helps each other with respect. Neo.\r\n\r\n\r\nShop&Kits in F2, For consol player go in Tab SHOP.\r\n/kit 01 : Kit starter\r\nPlayer LVL : 116\r\nDinos  LVL : 600 After tame 900\r\nFinder dino in your inventory / map / open finder\r\n\r\n\r\nXP: 10x\r\nTaming: 20x\r\nHarvesting: 100x\r\nCreature Maturation: 10x\r\nBreeding Interval: 10x\r\n\r\n\r\n\r\nHave fun ...\r\n",
+				"imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green> Rule </>",
+				"title1": "<TextStyle.Green> Rule </>",
+				"text1": "\r\n\r\n         You can build anywhere, but not too close to other players.",
+				"imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 3,
+				"buttontext": "<TextStyle.Green> Shop </>",
+				"title1": "<TextStyle.Green> Shop </>",
+				"text1": "\r\n\r\nShop for console players, you have all codes to buy kits&Dinos.\r\nEvery 30 minutes, you have a message in the global chat with your amount of points.\r\n\r\n     Starter kit (3 free): /kit 01\r\n\r\n     How buy kit. Example Kit UltimateTekPlot\r\n     /buykit 06 1 after do /kit 06 to have it in your inventory. \r\n\r\n\r\n\r\n\r\n     Command : /buy 'ID' 'Amount'\r\n     Example : /buy 142 1   you buy a Legendary Stego\r\n\r\nAncien - Divine cost 600 points\r\nAlpha cost 650 points\r\nDevilsh cost 700 points\r\nElectric - Hydra - Volvanic - Celestial cost 800 points\r\nAbyssal cost 900 points\r\nFairy - Shadow cost 1000 points\r\nLegendary - Mythic - Bionic cost 1200 points\r\nDemonic - Infected cost 1500 points\r\nTier 5 cost 1600 points\r\nWarden cost 1800 points\r\n",
+				"imageurl": "https://i.imgur.com/GKvRF7B.jpg",
+				"title2": "<TextStyle.Green> ID Kits </>",
+				"title3": "<TextStyle.Green> ID Dinos </>",
+				"text2": "\r\n                       Kits                                                       Prices\r\n\r\n   ● ID 01 - Kit Starter - 3free               ➢➢➢       100 Points\r\n   ● ID 02 - Kit Farming - All Bench      ➢➢➢       300 Points\r\n   ● ID 03 - kit Elements - 200              ➢➢➢       800 Points\r\n   ● ID 04 - kit TekPlot - 5 TekPlots     ➢➢➢       500 Points\r\n   ● ID 06 - kit Ultimate TekPlot - 1      ➢➢➢     2000 Points\r\n   ● ID 07 - kit Taming - 30 arrows       ➢➢➢       500 Points\r\n   ● ID 08 - kit Treat - All Treat              ➢➢➢       800 Points\r\n   ● ID 09 - Kit Seed Tier1 -                    ➢➢➢       100 Points\r\n   ● ID 10 - Kit Seed Tier2 -                    ➢➢➢       200 Points\r\n   ● ID 11 - Kit Seed Tier3 -                    ➢➢➢       300 Points\r\n   ● ID 12 - Kit Seed Tier4 -                    ➢➢➢       400 Points\r\n   ● ID 13 - Kit Seed Tier5 -                    ➢➢➢       500 Points\r\n   ● ID 14 - Kit Boss Tier - rare seed      ➢➢➢    1000 Points\r\n",
+				"text3": "\r\n                        Dinos                                                   \r\n\r\n   ● ID 01 - Alpha Allo                                                                   \r\n   ● ID 02 - Alpha Ankylo                                 \r\n   ● ID 03 - Alpha Argentavis                          \r\n   ● ID 04 - Alpha Arthropluera                        \r\n   ● ID 05 - Alpha Baryonyx                              \r\n   ● ID 06 - Alpha Brontosaurus                           \r\n   ● ID 07 - Alpha Carno                         \r\n   ● ID 08 - Alpha Castoroides                         \r\n   ● ID 09 - Alpha Chalico                          \r\n   ● ID 10 - Alpha Direbear                           \r\n   ● ID 11 - Alpha Direwolf                           \r\n   ● ID 12 - Alpha Doedicurus                           \r\n   ● ID 13 - Alpha Frog                        \r\n   ● ID 14 - Alpha Gallimimus                           \r\n   ● ID 15 - Alpha Giganto\r\n   ● ID 16 - Alpha Iguanodon\r\n   ● ID 17 - Alpha Kaprosuchus\r\n   ● ID 18 - Alpha Mammoth\r\n   ● ID 19 - Alpha Megaloceros\r\n   ● ID 20 - Alpha Megatherium\r\n   ● ID 21 - Alpha Monkey\r\n   ● ID 22 - Alpha Otter\r\n   ● ID 23 - Alpha Pachy\r\n   ● ID 24 - Alpha Paracer\r\n   ● ID 25 - Alpha Parasaur\r\n   ● ID 26 - Alpha Phiomia\r\n   ● ID 27 - Alpha Ptera\r\n   ● ID 28 - Alpha Pulmono\r\n   ● ID 29 - Alpha Quetzal\r\n   ● ID 30 - Alpha Rex\r\n   ● ID 31 - Alpha Saber\r\n   ● ID 32 - Alpha Sarco\r\n   ● ID 33 - Alpha Spino\r\n   ● ID 34 - Alpha Stego\r\n   ● ID 35 - Alpha TerrorBird\r\n   ● ID 36 - Alpha Therizi\r\n   ● ID 37 - Alpha Thyla\r\n   ● ID 38 - Alpha Trike\r\n   ● ID 39 - Alpha Turtle\r\n   ● ID 40 - Alpha WoollyRhin\r\n   ● ID 41 - Electric Allo\r\n   ● ID 42 - Electric Argent\r\n   ● ID 43 - Electric Basilo\r\n   ● ID 44 - Electric Cnidaria\r\n   ● ID 45 - Electric Diplo\r\n   ● ID 46 - Electric Direbear\r\n   ● ID 47 - Electric DodoRex\r\n   ● ID 48 - Electric Dolphin\r\n   ● ID 49 - Electric Dunkleo\r\n   ● ID 50 - Electric Electrophorus\r\n   ● ID 51 - Electric Eurypterid\r\n   ● ID 52 - Electric Griffin\r\n   ● ID 53 - Electric Liopleurodon\r\n   ● ID 54 - Electric Thyla\r\n   ● ID 55 - Electric Manta\r\n   ● ID 56 - Electric Megalodon\r\n   ● ID 57 - Electric Mosa\r\n   ● ID 58 - Electric Piranha\r\n   ● ID 59 - Electric Plesiosaur\r\n   ● ID 60 - Electric Rex\r\n   ● ID 61 - Electric Saber\r\n   ● ID 62 - Electric Thylacoleo\r\n   ● ID 63 - Electric Trilobite\r\n   ● ID 64 - Electric Tusoteuthis\r\n   ● ID 65 - Hydro Allo\r\n   ● ID 66 - Hydro Baryonyx\r\n   ● ID 67 - Hydro Basilo\r\n   ● ID 68 - Hydro Beaver\r\n   ● ID 69 - Hydro Cnidaria\r\n   ● ID 70 - Hydro Diplocaulus\r\n   ● ID 71 - Hydro DodoRex\r\n   ● ID 72 - Hydro Dunkleo\r\n   ● ID 73 - Hydro Electrophorus\r\n   ● ID 74 - Hydro Eurypterid\r\n   ● ID 75 - Hydro Frog\r\n   ● ID 76 - Hydro Kairuku\r\n   ● ID 77 - Hydro Kapro\r\n   ● ID 78 - Hydro Liopleurodon\r\n   ● ID 79 - Hydro Manta\r\n   ● ID 80 - Hydro Megalodon\r\n   ● ID 81 - Hydro Mosa\r\n   ● ID 82 - Hydro Otter\r\n   ● ID 83 - Hydro Owl\r\n   ● ID 84 - Hydro Owl\r\n   ● ID 85 - Hydro Piranha\r\n   ● ID 86 - Hydro Thylacoleo\r\n   ● ID 87 - Hydro Plesiosaur\r\n   ● ID 88 - Hydro Rex\r\n   ● ID 89 - Hydro Sarco\r\n   ● ID 90 - Hydro Spino\r\n   ● ID 91 - Hydro Trilobite\r\n   ● ID 92 - Hydro Turtle\r\n   ● ID 93 - Hydro Tusoteuthis\r\n   ● ID 94 - Volcanic Allo\r\n   ● ID 95 - Volcanic Basilo\r\n   ● ID 96 - Volcanic Cnidaria\r\n   ● ID 97 - Volcanic Deathworm\r\n   ● ID 98 - Volcanic Diplo\r\n   ● ID 99 - Volcanic DodoRex\r\n   ● ID 100 - Volcanic Dolphin\r\n   ● ID 101 - Volcanic Dragon\r\n   ● ID 102 - Volcanic Dunkleo\r\n   ● ID 103 - Volcanic Electro\r\n   ● ID 104 - Volcanic Eurypterid\r\n   ● ID 105 - Volcanic Liopleurodon\r\n   ● ID 106 - Volcanic Manta\r\n   ● ID 107 - Volcanic Megalodon\r\n   ● ID 108 - Volcanic Mosa\r\n   ● ID 109 - Volcanic Piranha\r\n   ● ID 110 - Volcanic Plesiosaur\r\n   ● ID 111 - Volcanic Raptor\r\n   ● ID 112 - Volcanic Rex\r\n   ● ID 113 - Volcanic Spino\r\n   ● ID 114 - Volcanic Tapejara\r\n   ● ID 115 - Volcanic Trilobite\r\n   ● ID 116 - Volcanic Tusoteuthis\r\n   ● ID 117 - Fairy Argentavis\r\n   ● ID 118 - Fairy Doedic\r\n   ● ID 119 - Fairy Jerboa\r\n   ● ID 120 - Fairy Pegasus\r\n   ● ID 121 - Fairy Wyvern\r\n   ● ID 122 - Shadow Arthro\r\n   ● ID 123 - Shadow Brood\r\n   ● ID 124 - Shadow Diplo\r\n   ● ID 125 - Shadow Golem\r\n   ● ID 126 - Shadow Gorilla\r\n   ● ID 127 - Shadow Turkey\r\n   ● ID 128 - Legendary Allo\r\n   ● ID 129 - Legendary Areneo\r\n   ● ID 130 - Legendary Baryonyx\r\n   ● ID 131 - Legendary Carno\r\n   ● ID 132 - Legendary Dilo \r\n   ● ID 133 - Legendary Indom\r\n   ● ID 134 - Legendary Kairuku\r\n   ● ID 135 - Legendary Kapro\r\n   ● ID 136 - Legendary Pachy\r\n   ● ID 137 - Legendary Ptero\r\n   ● ID 138 - Legendary Raptor\r\n   ● ID 139 - Legendary Sarco\r\n   ● ID 140 - Legendary Scorpion\r\n   ● ID 141 - Legendary Spino\r\n   ● ID 142 - Legendary Stego\r\n   ● ID 143 - Legendary Thorny\r\n   ● ID 144 - Legendary Trike\r\n   ● ID 145 - Legendary Wyvern\r\n   ● ID 146 - Mythic Anky\r\n   ● ID 147 - Mythic Argentavis\r\n   ● ID 148 - Mythic Beaver\r\n   ● ID 149 - Mythic Bigfoot\r\n   ● ID 150 - Mythic Doedic\r\n   ● ID 151 - Mythic Frog\r\n   ● ID 152 - Mythic Jerboa\r\n   ● ID 153 - Mythic Leech\r\n   ● ID 154 - Mythic Mammoth\r\n   ● ID 155 - Mythic Owl\r\n   ● ID 156 - Mythic Paracer\r\n   ● ID 157 - Mythic Ptero\r\n   ● ID 158 - Mythic Quetz\r\n   ● ID 159 - Mythic Sauropod\r\n   ● ID 160 - Mythic Stag\r\n   ● ID 161 - Mythic Stego\r\n   ● ID 162 - Mythic Tapejara\r\n   ● ID 163 - Mythic Therizino\r\n   ● ID 164 - Mythic Trike\r\n   ● ID 165 - Demonic Dilo\r\n   ● ID 166 - Demon Ferox\r\n   ● ID 167 - Demonic Gorilla\r\n   ● ID 168 - Demonic Reaper\r\n   ● ID 169 - Demonic Thorny\r\n   ● ID 170 - Golden Dodo\r\n   ● ID 171 - Golden Turkey\r\n   ● ID 172 - Divine Spino\r\n   ● ID 173 - Divine Allosaure\r\n   ● ID 174 - Divine Basilosaurus\r\n   ● ID 175 - Divine Argentavis\r\n   ● ID 176 - Divine SpineyLizard\r\n   ● ID 177 - Divine Griffin\r\n   ● ID 178 - Devilsh Rex\r\n   ● ID 179 - Devilsh Equus\r\n   ● ID 180 - Devilsh Allosaure\r\n   ● ID 181 - Devilsh Thylacoleo\r\n   ● ID 182 - Devilsh Therizino\r\n   ● ID 183 - Devilsh Phoenix\r\n   ● ID 184 - Devilsh Equus\r\n   ● ID 185 - Celestial Gorilla\r\n   ● ID 186 - Celestial Gigant\r\n   ● ID 187 - Celestial Titanosaur\r\n   ● ID 188 - Celestial Wyvern\r\n   ● ID 189 - Celestial RockGolem\r\n   ● ID 190 - Celestial Rhynio\r\n   ● ID 191 - Abyssal DodoRex\r\n   ● ID 192 - Abyssal Drake\r\n   ● ID 193 - Abyssal SpiderL\r\n   ● ID 194 - Abyssal Manticore\r\n   ● ID 195 - Abyssal Carcha\r\n   ● ID 196 - Tier5 DyingLight\r\n   ● ID 197 - Tier5 Gorilla\r\n   ● ID 198 - Bionic Quetz\r\n   ● ID 199 - Bionic Rex\r\n   ● ID 200 - Bionic Trike\r\n   ● ID 201 - Bionic Mosa\r\n   ● ID 202 - Warden Rex\r\n   ● ID 203 - Warden Therizino\r\n   ● ID 204 - Infected Dimorph\r\n   ● ID 205 - Infected Ptero\r\n   ● ID 206 - Infected Argent\r\n   ● ID 207 - Infected Wyvern\r\n   ● ID 208 - Ancient Raptor\r\n   ● ID 209 - Ancient Carno\r\n   ● ID 210 - Ancient Therizino\r\n   ● ID 211 - Ancient Spino\r\n"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 1,
+				"buttontext": "<TextStyle.Green> Donation </>",
+				"title1": "<TextStyle.Green> Donation </>",
+				"text1": "\r\n          \r\n                    Pack Starter : 5.95€                                                                                                                        Pack Gold : 35.70€                                                                                 \r\n                    - 1000 points                                                                                                                                   - 15000 points \r\n                    - 55 points every 30 min                                                                                                                - 80 points every 30 min \r\n                    - Vip on discord                                                                                                                               - Vip on discord       \r\n                    - They will last 2 weeks                                                                                                                   - They will last 1 month\r\n\r\n                    Pack Bronze : 11.90€                                                                                                                      Pack Platinum : 59.50€\r\n                    - 3000 points                                                                                                                                     - 30000 points\r\n                    - 60 points every 30 min                                                                                                                  - 100 points every 30 min \r\n                    - Vip on discord                                                                                                                                 - Vip on discord\r\n                    - They will last 1 month                                                                                                                    - They will last 2 months \r\n\r\n                    Pack Silver : 23.80€                                                                                                                           Pack Infinite : 119€\r\n                    - 8000 points                                                                                                                                       - 50000 points\r\n                    - 70 points every 30 min                                                                                                                    - 200 points every 30 min \r\n                    - Vip on discord                                                                                                                                   - Vip on discord \r\n                    - They will last 1 month                                                                                                                      - They will last 2 months \r\n\r\n\r\n\r\n                                                                  ",
+				"imageurl": "https://i.imgur.com/GKvRF7B.jpg"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "<TextStyle.Blue> Discord </>",
+				"url": "https://discord.gg/uBGrTpWCcA"
+			}
+		},
+		{
+			"link2":
+			{
+				"text": "<TextStyle.Red> Donate </>",
+				"url": "https://matrixstore.tip4serv.com/"
+			}
+		}
+	]
+}
+}
